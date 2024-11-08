@@ -17,3 +17,6 @@ You need to download only the patch-level encoder. The slide-level encoder is no
 # How to reproduce the evaluation?
 * Register to the [BraTS-Path Challenge](https://www.synapse.org/Synapse:syn53708249/wiki/) and follow the guidelines there related to the MLCube preparation.
 
+
+# License
+The source code is released under Apache-2.0 license. However, note that the source code for ProvGigaPath and the associated pretrained model follow a diferent license.
